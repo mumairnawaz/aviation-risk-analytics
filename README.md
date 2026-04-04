@@ -60,7 +60,7 @@ Bird strike incidents show a steady increase over time, with peaks exceeding **6
 Without proactive risk management, increasing air traffic will continue to elevate exposure to wildlife-related incidents, leading to higher operational disruption and cost impact.
 
 <p align="center">
-  <img src="images/dashboard_overview.png" width="100%">
+  <img src="mages/Birds%20Strike%201.pngg" width="100%">
 </p>
 
 ---
@@ -73,7 +73,7 @@ Analysis shows that the **approach phase accounts for the highest number of inci
 Safety measures should prioritize approach and landing phases, where risk concentration is highest and response time is limited.
 
 <p align="center">
-  <img src="images/dashboard_details.png" width="100%">
+  <img src="images/Birds%20Strike%202.png" width="100%">
 </p>
 
 ---
