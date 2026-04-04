@@ -49,8 +49,9 @@ Operational patterns also play a significant role. The majority of incidents occ
 
 # Risk Insights
 
-<table width="90%" align="center">
-<tr><td>
+<p align="center">
+  <img src="images/Birds%20Strike%201.png" width="100%">
+</p>
 
 ## Incident Trends & Growth Patterns
 
