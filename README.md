@@ -49,9 +49,6 @@ Operational patterns also play a significant role. The majority of incidents occ
 
 # Risk Insights
 
-<p align="center">
-  <img src="images/Birds%20Strike%201.png" width="100%">
-</p>
 
 ## Incident Trends & Growth Patterns
 
@@ -61,7 +58,7 @@ Bird strike incidents show a steady increase over time, with peaks exceeding **6
 Without proactive risk management, increasing air traffic will continue to elevate exposure to wildlife-related incidents, leading to higher operational disruption and cost impact.
 
 <p align="center">
-  <img src="mages/Birds%20Strike%201.pngg" width="100%">
+  <img src="images/Birds%20Strike%201.png" width="100%">
 </p>
 
 ---
